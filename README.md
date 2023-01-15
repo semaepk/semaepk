@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @semaepk
-- 👀 I’m interested in JS, Node js, React
-- 🌱 I’m currently learning JS, Node js, React
+- 👀 I’m interested in JS, TS, Node js, React
 
 <!---
 semaepk/semaepk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
